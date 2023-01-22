@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="942f8b72-3236-4a6c-9a04-4c6fa6258a3e" name="Changes" comment="Done hw lesson 1" />
+    <list default="true" id="942f8b72-3236-4a6c-9a04-4c6fa6258a3e" name="Changes" comment="Done hw lesson 1">
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_1_Widgets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_1_Widgets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/imagines/icon_archive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/imagines/icon_audio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/imagines/icon_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/imagines/icon_video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/imagines/icon_archive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/imagines/icon_audio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/imagines/icon_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/imagines/icon_video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,15 +53,25 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/dec-20220-html",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/dec-20220-html/Lesson_2_flexboxes/card_4/imagines",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\dec-20220-html\Lesson_2_flexboxes\card_4\imagines" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\dec-20220-html\Lesson_2_flexboxes\card_4\imagines" />
+      <recent name="C:\Users\User\IdeaProjects\dec-20220-html\Lesson_2_flexboxes\card_3\imagines" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +80,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674051897337</updated>
-      <workItem from="1674051898356" duration="2763000" />
+      <workItem from="1674051898356" duration="3207000" />
+      <workItem from="1674389869983" duration="1811000" />
+      <workItem from="1674391720476" duration="8612000" />
     </task>
     <task id="LOCAL-00001" summary="Done hw lesson 1">
       <created>1674053988699</created>
@@ -82,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674054451342</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Done hw lesson 1">
+      <created>1674054697791</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674054697791</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
