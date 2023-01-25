@@ -1,0 +1,83 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrap {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+}
+.sircles {
+    width: 800px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 35px;
+
+}
+
+
+.sircle {
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border: solid 1px black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-solid {
+}
+
+.fa-wand-magic-sparkles {
+}
+
+.fa-face-awesome {
+}
+
+.fa-grill-hot {
+}
+
+.cards_father {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card {
+    padding: 20px;
+    border: solid 1px black;
+    width: 25%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header {
+    font-size: 26px;
+
+}
+
+.description {
+}
+
+.button {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    border: solid 1px black;
+}

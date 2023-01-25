@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="942f8b72-3236-4a6c-9a04-4c6fa6258a3e" name="Changes" comment="Done hw lesson 1">
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_1_Widgets/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_1_Widgets/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_2/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/imagines/icon_archive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/imagines/icon_audio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/imagines/icon_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/imagines/icon_video.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_3/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/imagines/icon_archive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/imagines/icon_audio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/imagines/icon_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/imagines/icon_video.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_flexboxes/card_4/main.css" afterDir="false" />
+    <list default="true" id="942f8b72-3236-4a6c-9a04-4c6fa6258a3e" name="Changes" comment="Done hw lesson 2">
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Card_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Card_1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/card_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/card_2/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,27 +35,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/dec-20220-html/Lesson_2_flexboxes/card_4/imagines",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/dec-20220-html/Lesson_2_flexboxes/card_4/imagines&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\dec-20220-html\Lesson_2_flexboxes\card_4\imagines" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\dec-20220-html\Lesson_3\Card_1" />
       <recent name="C:\Users\User\IdeaProjects\dec-20220-html\Lesson_2_flexboxes\card_4\imagines" />
       <recent name="C:\Users\User\IdeaProjects\dec-20220-html\Lesson_2_flexboxes\card_3\imagines" />
     </key>
@@ -82,7 +71,9 @@
       <updated>1674051897337</updated>
       <workItem from="1674051898356" duration="3207000" />
       <workItem from="1674389869983" duration="1811000" />
-      <workItem from="1674391720476" duration="8612000" />
+      <workItem from="1674391720476" duration="8899000" />
+      <workItem from="1674648331626" duration="666000" />
+      <workItem from="1674649018810" duration="4223000" />
     </task>
     <task id="LOCAL-00001" summary="Done hw lesson 1">
       <created>1674053988699</created>
@@ -119,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674054697791</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Done hw lesson 2">
+      <created>1674400497918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674400497918</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done hw lesson 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done hw lesson 1" />
+    <MESSAGE value="Done hw lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done hw lesson 2" />
   </component>
 </project>
